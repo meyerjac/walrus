@@ -1,0 +1,33 @@
+body{
+ width: 100%;
+}
+
+h1 {
+  text-align: center;
+  color: blue;
+}
+
+p {
+  text-align: center;
+  cursor: pointer;
+  color: #0088cc;
+}
+
+
+.walrus-showing {
+  display: none;
+}
+
+.clickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
+
+img {
+  width: 50%;
+  margin-left: 25%;
+}
